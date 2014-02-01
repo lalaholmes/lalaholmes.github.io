@@ -1,4 +1,5 @@
-lalaholmes.github.io
-====================
+# Personal Website
 
-Personal website.
+Some displays of my personal and professional work.
+
+The website is in Brazilian Portuguese.
